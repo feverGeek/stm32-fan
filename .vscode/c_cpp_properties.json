@@ -1,0 +1,48 @@
+{
+    "configurations": [
+        {
+            "name": "STM32F4",
+            "includePath": [
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/USER/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/CORE/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/MALLOC/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/HARDWARE/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/HARDWARE/TIMER/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/HARDWARE/PWM/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/HARDWARE/LED/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/HARDWARE/MOTOR/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/HARDWARE/24CXX/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/HARDWARE/IIC/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/HARDWARE/KEY/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/HARDWARE/LCD/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/HARDWARE/RTC/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/HARDWARE/SRAM/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/HARDWARE/TOUCH/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/HARDWARE/WKUP/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/SYSTEM/sys/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/SYSTEM/delay/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/SYSTEM/usart/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/FWLIB/inc/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/FWLIB/src/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/EMWIN/MyGui/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/EMWIN/STemWin/Config/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/EMWIN/STemWin/inc/**",
+                "C:/Users/linucys/Desktop/嵌入式风扇/code/EMWIN/STemWin/OS/**",
+                "F:/cygwin64/usr/include/**",
+                "F:/cygwin64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/**",
+                "F:/cygwin64/lib/gcc/x86_64-w64-mingw32/7.3.0/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "STM32F40_41xxx"
+            ],
+            "compilerPath": "F:/cygwin64/bin/gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
